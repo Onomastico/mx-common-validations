@@ -1,0 +1,1 @@
+export { CurpValidators } from './curp/validators'
